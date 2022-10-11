@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/CLionProjects/Homework02/log_n_vector.h
+cmath
+-
+memory
+-
+vector
+-
+
+H:/CLionProjects/Homework02/main.cpp
+iostream
+-
+log_n_vector.h
+H:/CLionProjects/Homework02/log_n_vector.h
+

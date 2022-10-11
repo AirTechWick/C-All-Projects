@@ -1,0 +1,3 @@
+H:/CLionProjects/Homework02/cmake-build-debug/CMakeFiles/Homework02.dir
+H:/CLionProjects/Homework02/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/CLionProjects/Homework02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
