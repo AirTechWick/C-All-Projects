@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/CLionProjects/Homework05/avl_tree.h
+memory
+-
+
+H:/CLionProjects/Homework05/main.cpp
+iostream
+-
+avl_tree.h
+H:/CLionProjects/Homework05/avl_tree.h
+
