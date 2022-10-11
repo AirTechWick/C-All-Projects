@@ -1,0 +1,2 @@
+Compiler Execution code:
+g++ -g -Wall -Wextra -pedantic-errors  InventorySystem.cpp
