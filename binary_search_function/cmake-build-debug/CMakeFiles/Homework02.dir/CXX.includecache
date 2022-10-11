@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/CLionProjects/Homework02/binary_search_function.cpp
+binary_search_function.h
+H:/CLionProjects/Homework02/binary_search_function.h
+iostream
+-
+
+H:/CLionProjects/Homework02/binary_search_function.h
+cfloat
+-
+functional
+-
+
